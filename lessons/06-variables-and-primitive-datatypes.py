@@ -101,6 +101,3 @@ print(type(total_packages))  # Must output <class 'int'>
 # END OF ASSIGNMENT
 # When everything prints perfectly with no errors, paste your solution back here!
 # ==============================================================================
-
-False and (5 / 0 == 0)
-print((3 + 2) ** 2)
